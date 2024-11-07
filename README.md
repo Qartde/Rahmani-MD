@@ -20,7 +20,7 @@
 <a href="https://github.com/Qartde?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Qartde?label=Followers&style=social"></a>
 <a href="https://github.com/Qartde/Rahmani-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Qartde/Rahmani-Md?&style=social"></a>
 <a href="https://github.com/Qartde/Rahmani-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/Rahmani-Md?style=social"></a>
-<a href="https://github.com/Qartde/Rahmani-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FmQartde/Rahmani-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Qartde/Rahmani-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Qartde/Rahmani-Md?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Qartde}/count.svg" alt="Rahmani-Md :: Visitor's Count"/></p>
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Qartde/Rahmani-Md"><b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Qartde/Rahmani-Md"><b>RAMADHANI_MD</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
