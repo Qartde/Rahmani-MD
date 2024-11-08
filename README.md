@@ -127,7 +127,7 @@ Tap to deploy if you know
 
 ##
 
-#### ***This One Is Another Ra𝙝𝙢𝙖ni Take Safe Bot In Heroku Called Ramadhani Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
+#### ***This One Is Another Ra𝙝𝙢𝙖ni Take Safe Bot In Heroku Called 𝙍𝙖𝙝𝙢𝙖𝙣𝙞 Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
 </details>
 
 <details>
