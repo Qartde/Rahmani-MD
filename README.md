@@ -127,7 +127,7 @@ Tap to deploy if you know
 
 ##
 
-#### ***This One Is Another Ra𝙝𝙢𝙖ni Take Safe Bot In Heroku Called 𝙍𝙖𝙝𝙢𝙖𝙣𝙞 Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
+#### ***This One Is Another Rahmani Take Safe Bot In Heroku Called 𝘙𝘢𝘩𝘮𝘢𝘯𝘪 Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
 </details>
 
 <details>
@@ -146,11 +146,11 @@ All Information About Me
 
 ## License
 
-The WhatsApp Bot RAHMANI 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot ℝ𝔸ℍ𝕄𝔸ℕ𝕀 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 RAHMANI_𝕄𝔻 🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 ℝ𝔸ℍ𝕄𝔸ℕ𝕀 𝕄𝔻
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
