@@ -1,19 +1,19 @@
 </h1> 
-<p align="center">RAMADHANI_MD 
+<p align="center">RAHMANI_MD 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+RAMADHANI+MD+BOT+CREATED+BY+DANNY+TECH+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+RAHMANI+MD+BOT+CREATED+BY+DANNY+TECH+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r">
- <img alt="RAMADHANI_MD" height="300" src="https://imgur.com/a/eh6t3Fi.jpeg">
+ <img alt="RAHMANI_MD" height="300" src="https://imgur.com/a/eh6t3Fi.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
-<p align="center"> <b> RAMADHANI </b>MD</p>
+<p align="center"> <b> RAHMANI </b>MD</p>
 
 </p>
   <p align="center">
@@ -31,7 +31,7 @@
 </div>
 
 ---
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 RAMADHANI_MD 
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗 
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -102,7 +102,7 @@ src='https://img.shields.io/badge/whatsapp Group-black?style=for-the-badge&logo=
 https://dashboard.heroku.com/new?template=https://github.com/Qartde/Rahmani-Md
 ```
 
-` RAMADHANI MD REPLIT DEP`
+` RAHMANI MD REPLIT DEP`
 </details>
 
 <details>
@@ -120,19 +120,19 @@ Tap to deploy if you know
       5.After importing tap 👈 button down 👇 of replit dashboard. 
       6.Choose set.js file then put your session 🆔 and others you need. 
       7.Tap button written run to run your bot then go test it's work. 
-    THANK YOU FOR CHOOSING RAMADHANI MD 
+    THANK YOU FOR CHOOSING RAHMANI MD 
   </details>
    
 
 
 ##
 
-#### ***This One Is Another Ramadhani Take Safe Bot In Heroku Called Ramadhani Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
+#### ***This One Is Another Ra𝙝𝙢𝙖ni Take Safe Bot In Heroku Called Ramadhani Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
 </details>
 
 <details>
-<summary>Tap To Check RAMADHANI Md💯</summary>
- Ramadhani Md Info
+<summary>Tap To Check RAHMANI Md💯</summary>
+ Rahmani Md Info
     <a href='https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Open Fredi Md Repo Here🛰️' src='https://img.shields.io/badge/🛰️Open Fredi Md Repo Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
@@ -146,18 +146,18 @@ All Information About Me
 
 ## License
 
-The WhatsApp Bot RAMADHANI 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot RAHMANI 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 RAMADHANI_𝕄𝔻 🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 RAHMANI_𝕄𝔻 🌟
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**Danny TECH**](https://github.com/Daniel432-gift)
-- [**Ramadhani TECH**](https://github.com/Qartde)
+- [**Ra𝙝𝙢𝙖ni TECH**](https://github.com/Qartde)
 - [**TELEGRAM**](t.me/Danny)
 - [**Developers YT**](https://www.youtube.com/@creepy_technology)
 
