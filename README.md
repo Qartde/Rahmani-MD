@@ -1,5 +1,5 @@
 </h1> 
-<p align="center">RAHMANI_MD 
+<p align="center">𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -9,11 +9,11 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r">
- <img alt="RAHMANI_MD" height="300" src="https://imgur.com/a/eh6t3Fi.jpeg">
+ <img alt="𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫" height="300" src="https://files.catbox.moe/aktbgo.jpg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
-<p align="center"> <b> RAHMANI </b>MD</p>
+<p align="center"> <b> 𝑹𝑨𝑯𝑴𝑨𝑵𝑰 </b>𝑴𝑫</p>
 
 </p>
   <p align="center">
@@ -38,7 +38,7 @@
 Fork the Repo
 
 
-<a href='https://github.com/Qartde/Rahmani-Md/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=blue'/></a>
+<a href='https://github.com/Qartde/Rahmani-Md/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
 
 star me 🌟  ®️
 
@@ -46,7 +46,7 @@ star me 🌟  ®️
 
 ## 2.Get your session ID here
  
-<a href='https://samsung-5ggy.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://samsung-5ggy.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -61,7 +61,7 @@ star me 🌟  ®️
   For Help And Developer Join As Here ✔️
 <a href='https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/WhatsApp Channel Support-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 
-<a href='https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/Join WhatsApp Group-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://chat.whatsapp.com/CLBBh4T0KVi3wlzqcXqTdb' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/Join WhatsApp Group-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 
 <a href='https://wa.me/255697608274' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/Wa Me Here-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 
@@ -131,9 +131,9 @@ Tap to deploy if you know
 </details>
 
 <details>
-<summary>Tap To Check RAHMANI Md💯</summary>
+<summary>Tap To Check 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 💯</summary>
  Rahmani Md Info
-    <a href='https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Open Fredi Md Repo Here🛰️' src='https://img.shields.io/badge/🛰️Open Fredi Md Repo Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://github.com/Qartde/Rahmani-Md/target="_blank"><img alt='Open 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 Repo Here🛰️' src='https://img.shields.io/badge/🛰️open 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 Md Repo Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 All Information About Me 
