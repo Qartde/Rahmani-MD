@@ -9,7 +9,7 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r">
- <img alt="𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫" height="300" src="https://files.catbox.moe/aktbgo.jpg">
+ <img alt="𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫" height="500" src="https://files.catbox.moe/aktbgo.jpg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
