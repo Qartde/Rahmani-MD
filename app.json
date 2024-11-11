@@ -34,22 +34,22 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
-      "value":"RAMADHANI_MD",
+      "description":"Don't change",
+      "value":"𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://imgur.com/a/eh6t3Fi.jpeg,https://imgur.com/a/eh6t3Fi.jpeg",
+      "description":"Don't change or your bot won't work ; eg : url1,url2,url3.....",
+      "value":"https://files.catbox.moe/aktbgo.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required": true 
     },
     "HEROKU_APY_KEY": {
