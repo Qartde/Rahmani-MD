@@ -131,9 +131,9 @@ Tap to deploy if you know
 </details>
 
 <details>
-<summary>Tap To Check 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 💯</summary>
- Rahmani Md Info
-    <a href='https://github.com/Qartde/Rahmani-Md/target="_blank"><img alt='Open 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 Repo Here🛰️' src='https://img.shields.io/badge/🛰️open 𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫 Md Repo Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+<summary>Tap To create your own bot 💯</summary>
+ Check out how to create your own bot
+    <a href='https://github.com/Qartde/Rahmani-Md/target="_blank"><img alt='Check how to create bot 🛰️' src='https://img.shields.io/badge/🛰️open Check how to create bot-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 All Information About Me 
